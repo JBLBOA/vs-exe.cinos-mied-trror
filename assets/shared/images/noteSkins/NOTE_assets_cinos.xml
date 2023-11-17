@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTES.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN NOTE0000" x="0" y="0" width="34" height="35"/>
+	<SubTexture name="DOWN NOTE CLICK0000" x="34" y="0" width="32" height="38" frameX="-1" frameY="-2" frameWidth="35" frameHeight="40"/>
+	<SubTexture name="DOWN NOTE CLICK0001" x="34" y="0" width="32" height="38" frameX="-1" frameY="-2" frameWidth="35" frameHeight="40"/>
+	<SubTexture name="DOWN NOTE CLICK0002" x="66" y="0" width="35" height="33" frameX="0" frameY="0" frameWidth="35" frameHeight="40"/>
+	<SubTexture name="DOWN NOTE CLICK0003" x="66" y="0" width="35" height="33" frameX="0" frameY="0" frameWidth="35" frameHeight="40"/>
+	<SubTexture name="DOWN NOTE CLICK0004" x="0" y="38" width="34" height="35" frameX="0" frameY="-1" frameWidth="35" frameHeight="40"/>
+	<SubTexture name="DOWN NOTE CLICK0005" x="0" y="38" width="34" height="35" frameX="0" frameY="-1" frameWidth="35" frameHeight="40"/>
+	<SubTexture name="LEFT NOTE0000" x="34" y="38" width="33" height="37"/>
+	<SubTexture name="LEFT NOTE CLICK0000" x="67" y="38" width="37" height="33" frameX="0" frameY="-3" frameWidth="37" frameHeight="39"/>
+	<SubTexture name="LEFT NOTE CLICK0001" x="67" y="38" width="37" height="33" frameX="0" frameY="-3" frameWidth="37" frameHeight="39"/>
+	<SubTexture name="LEFT NOTE CLICK0002" x="0" y="75" width="32" height="39" frameX="-5" frameY="0" frameWidth="37" frameHeight="39"/>
+	<SubTexture name="LEFT NOTE CLICK0003" x="0" y="75" width="32" height="39" frameX="-5" frameY="0" frameWidth="37" frameHeight="39"/>
+	<SubTexture name="LEFT NOTE CLICK0004" x="32" y="75" width="33" height="37" frameX="-4" frameY="-1" frameWidth="37" frameHeight="39"/>
+	<SubTexture name="LEFT NOTE CLICK0005" x="32" y="75" width="33" height="37" frameX="-4" frameY="-1" frameWidth="37" frameHeight="39"/>
+	<SubTexture name="RIGHT NOTE0000" x="65" y="75" width="33" height="37"/>
+	<SubTexture name="RIGHT NOTE CLICK0000" x="0" y="114" width="36" height="34" frameX="-2" frameY="-3" frameWidth="38" frameHeight="39"/>
+	<SubTexture name="RIGHT NOTE CLICK0001" x="0" y="114" width="36" height="34" frameX="-2" frameY="-3" frameWidth="38" frameHeight="39"/>
+	<SubTexture name="RIGHT NOTE CLICK0002" x="36" y="114" width="31" height="39" frameX="0" frameY="0" frameWidth="38" frameHeight="39"/>
+	<SubTexture name="RIGHT NOTE CLICK0003" x="36" y="114" width="31" height="39" frameX="0" frameY="0" frameWidth="38" frameHeight="39"/>
+	<SubTexture name="RIGHT NOTE CLICK0004" x="67" y="114" width="33" height="37" frameX="-1" frameY="-1" frameWidth="38" frameHeight="39"/>
+	<SubTexture name="RIGHT NOTE CLICK0005" x="67" y="114" width="33" height="37" frameX="-1" frameY="-1" frameWidth="38" frameHeight="39"/>
+	<SubTexture name="UP NOTE0000" x="0" y="153" width="34" height="36"/>
+	<SubTexture name="UP NOTE CLICK0000" x="34" y="153" width="33" height="39" frameX="-2" frameY="0" frameWidth="37" frameHeight="42"/>
+	<SubTexture name="UP NOTE CLICK0001" x="34" y="153" width="33" height="39" frameX="-2" frameY="0" frameWidth="37" frameHeight="42"/>
+	<SubTexture name="UP NOTE CLICK0002" x="67" y="153" width="37" height="35" frameX="0" frameY="-7" frameWidth="37" frameHeight="42"/>
+	<SubTexture name="UP NOTE CLICK0003" x="67" y="153" width="37" height="35" frameX="0" frameY="-7" frameWidth="37" frameHeight="42"/>
+	<SubTexture name="UP NOTE CLICK0004" x="0" y="192" width="34" height="36" frameX="-1" frameY="-4" frameWidth="37" frameHeight="42"/>
+	<SubTexture name="UP NOTE CLICK0005" x="0" y="192" width="34" height="36" frameX="-1" frameY="-4" frameWidth="37" frameHeight="42"/>
+</TextureAtlas>

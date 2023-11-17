@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				-404
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				-130,
+				-462
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-280,
+				-397
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-176,
+				-339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-210,
+				-530
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/CINOS",
+	"position": [
+		-90,
+		10
+	],
+	"healthicon": "cinos",
+	"flip_x": false,
+	"healthbar_colors": [
+		182,
+		229,
+		29
+	],
+	"camera_position": [
+		-150,
+		450
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

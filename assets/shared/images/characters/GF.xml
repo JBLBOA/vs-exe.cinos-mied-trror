@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLEGF0000" x="0" y="0" width="132" height="115" frameX="-4" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0001" x="0" y="0" width="132" height="115" frameX="-4" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0002" x="132" y="0" width="136" height="115" frameX="0" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0003" x="132" y="0" width="136" height="115" frameX="0" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0004" x="268" y="0" width="121" height="115" frameX="-16" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0005" x="268" y="0" width="121" height="115" frameX="-16" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0006" x="0" y="115" width="138" height="115" frameX="-16" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0007" x="0" y="115" width="138" height="115" frameX="-16" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0008" x="138" y="115" width="141" height="115" frameX="-16" frameY="0" frameWidth="157" frameHeight="115"/>
+	<SubTexture name="IDLEGF0009" x="138" y="115" width="141" height="115" frameX="-16" frameY="0" frameWidth="157" frameHeight="115"/>
+</TextureAtlas>

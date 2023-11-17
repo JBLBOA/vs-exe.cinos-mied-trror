@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iniciodesession.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inicio0000" x="0" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0001" x="0" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0002" x="360" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0003" x="360" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0004" x="720" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0005" x="720" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0006" x="1080" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0007" x="1080" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0008" x="1440" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0009" x="1440" y="0" width="360" height="480"/>
+	<SubTexture name="inicio0010" x="0" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0011" x="0" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0012" x="360" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0013" x="360" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0014" x="720" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0015" x="720" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0016" x="1080" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0017" x="1080" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0018" x="1440" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0019" x="1440" y="480" width="360" height="480"/>
+	<SubTexture name="inicio0020" x="0" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0021" x="0" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0022" x="360" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0023" x="360" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0024" x="720" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0025" x="720" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0026" x="1080" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0027" x="1080" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0028" x="1440" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0029" x="1440" y="960" width="360" height="480"/>
+	<SubTexture name="inicio0030" x="0" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0031" x="0" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0032" x="360" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0033" x="360" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0034" x="720" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0035" x="720" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0036" x="1080" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0037" x="1080" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0038" x="1440" y="1440" width="360" height="480"/>
+	<SubTexture name="inicio0039" x="1440" y="1440" width="360" height="480"/>
+</TextureAtlas>

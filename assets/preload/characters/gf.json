@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-439
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "IDLEGF",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-439
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "IDLEGF",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GF",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2.9
+}
