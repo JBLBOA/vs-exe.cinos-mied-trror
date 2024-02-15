@@ -267,6 +267,10 @@ class PlayState extends MusicBeatState
 	public var startCallback:Void->Void = null;
 	public var endCallback:Void->Void = null;
 
+	var ventanacoso:FlxSprite;
+	var closeWin:FlxSprite;
+	var pauseWin:FlxSprite;
+
 	override public function create()
 	{
 		//trace('Playback Rate: ' + playbackRate);
@@ -555,6 +559,26 @@ class PlayState extends MusicBeatState
 		botplayTxt.borderSize = 1.25;
 		botplayTxt.visible = cpuControlled;
 		add(botplayTxt);
+
+		ventanacoso = new FlxSprite(0, 0).loadGraphic(Paths.image('coso/topbar'));
+		ventanacoso.scrollFactor.set(0, 0);
+		ventanacoso.screenCenter(X);
+		ventanacoso.scale.x = FlxG.width;
+		ventanacoso.scale.y = 2.0;
+		add(ventanacoso);
+
+		closeWin = new FlxSprite(1250, 11).loadGraphic(Paths.image('coso/exit'));
+		closeWin.scrollFactor.set(0, 0);
+		closeWin.scale.x = 2.0;
+		closeWin.scale.y = 2.0;
+		add(closeWin);
+
+		pauseWin = new FlxSprite(1200, 11).loadGraphic(Paths.image('coso/pause'));
+		pauseWin.scrollFactor.set(0, 0);
+		pauseWin.scale.x = 2.0;
+		pauseWin.scale.y = 2.0;
+		add(pauseWin);
+
 		if(ClientPrefs.data.downScroll) {
 			botplayTxt.y = timeBar.y - 78;
 		}
@@ -570,6 +594,10 @@ class PlayState extends MusicBeatState
 		botplayTxt.cameras = [camHUD];
 		timeBar.cameras = [camHUD];
 		timeTxt.cameras = [camHUD];
+
+		ventanacoso.cameras = [camGame];
+		closeWin.cameras = [camGame];
+		pauseWin.cameras = [camGame];
 
 		startingSong = true;
 		
@@ -1619,7 +1647,7 @@ class PlayState extends MusicBeatState
 			botplayTxt.alpha = 1 - Math.sin((Math.PI * botplaySine) / 180);
 		}
 
-		if (controls.PAUSE && startedCountdown && canPause)
+		if (FlxG.mouse.overlaps(pauseWin) && FlxG.mouse.justPressed && startedCountdown && canPause)
 		{
 			var ret:Dynamic = callOnScripts('onPause', null, true);
 			if(ret != FunkinLua.Function_Stop) {
